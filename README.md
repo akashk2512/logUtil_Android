@@ -14,7 +14,7 @@ Add it in your root build.gradle(Project:project name) at the end of repositorie
  Step 2:  Add the dependency in buid.gradle(Module:app)
 
 	dependencies {
-	        compile 'com.github.akashk2512:logUtil_Android:0.1.0'
+	        compile 'com.github.akashk2512:logUtil_Android:0.1.1'
 	}
   
   Step 3: Add in your activity to print log
